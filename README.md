@@ -1,3 +1,18 @@
 # Indian-poker
 
-123123
+
+(Abstrac)
+
+[Demo link](Demo link)
+[Official page](Official link)
+
+## prerequisites
+
+- Node.js
+- React.js
+
+## installation
+
+## Quickstart
+
+## Contributing
